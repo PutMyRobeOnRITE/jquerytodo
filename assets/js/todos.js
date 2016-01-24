@@ -7,7 +7,6 @@ $("li").click(function(){
 	
 });
 
-
 $("ul").on("click", "span", function(event){
 	$(this).parent().fadeOut(500,function(){
 		$(this).remove();
@@ -15,6 +14,7 @@ $("ul").on("click", "span", function(event){
 	event.stopPropagation();
 });
 
+//Listen for Enter key in input field and append a new li to the unordered list
 $("input[type='text'").keypress(function(event){
 	if(event.which === 13){
 		//grabbing new todo text from input
@@ -25,6 +25,7 @@ $("input[type='text'").keypress(function(event){
 	}
 });
 
+//Fade the input text box in or out when clicking the + sign
 $(".fa-plus").click(function(){
 	$("input[type='text'").fadeToggle()
 });
