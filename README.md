@@ -1,6 +1,7 @@
-# Project Title
+# jQuery To Do
 
-One Paragraph of project description goes here
+JQuery to do is a browser based application that will allow you to add, delete, and mark to do's as complete.
+There is no data persistence.  This application demonstrates some basic usage of the jQuery library.
 
 ## Getting Started
 
@@ -8,10 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
+All you need is a modern browser.
 
 ```
-Give examples
+Chrome
+Safari
+Firefox
+etc....
 ```
 
 ### Installing
@@ -68,7 +72,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
