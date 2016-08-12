@@ -18,43 +18,18 @@ Firefox
 etc....
 ```
 
-### Installing
+### Getting Started
 
-A step by step series of examples that tell you have to get a development env running
+The easiest way to get started is to clone the repository:
 
-Stay what the step will be
+```bash
+# Get the latest snapshot
+git clone --depth=1 https://github.com/freecodecamp/freecodecamp.git freecodecamp
 
-```
-Give the example
-```
+# Change directory
+cd freecodecamp
 
-And repeat
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
