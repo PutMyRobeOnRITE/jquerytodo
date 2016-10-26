@@ -3,22 +3,23 @@
 JQuery to do is a browser based application that will allow you to add, delete, and mark to do's as complete.
 There is no data persistence.  This application demonstrates some basic usage of the jQuery library.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisities
 
-All you need is a modern browser.
+All you need is a modern browser and an ide.
 
 ```
 Chrome
 Safari
 Firefox
 etc....
+Visual Studio
+Eclipse
+Sublime text
+Atom
+etc...
 ```
 
-### Getting Started
+## Getting Started
 
 The easiest way to get started is to clone the repository:
 
@@ -28,19 +29,20 @@ git clone --depth=1 https://github.com/PutMyRobeOnRITE/jquerytodo.git
 
 # Change directory
 cd jquerytodo
+
+# Run index.html
+Open index.html with your favorite browser on your local filesystem.
+
+# Modify the code
+Open up your favorite ide or text editor and start coding, save changes, and refresh index.html
+
 ```
-
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
+* html
+* css
+* jQuery
 
 
 
